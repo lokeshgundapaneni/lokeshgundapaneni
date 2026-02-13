@@ -79,23 +79,6 @@ MySQL • Git • GitHub • IntelliJ IDEA • VS Code
 
 ---
 
-## 🏅 Leadership
-
-Finance Chair – IEEE Student Branch  
-- Managed budgeting and financial coordination  
-- Assisted in organizing technical workshops and events  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshgundapaneni&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgundapaneni&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 📫 Contact
 
 📧 gundapanenilokesh@gmail.com  
