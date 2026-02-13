@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/lokeshgundapaneni">LinkedIn</a> •
   <a href="https://github.com/lokeshgundapaneni">GitHub</a> •
-  <a href="https://leetcode.com/u/lokeshgundapaneni">LeetCode</a>
+  <a href="https://leetcode.com/u/i__lokesh__/">LeetCode</a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 🎓 Final-Year B.Tech CSE (Data Science) | CGPA: 8.44  
 💻 Strong foundation in Java, OOP & Data Structures  
 ⚡ Experience building responsive and scalable frontend applications  
-📈 Solved 60+ Data Structures & Algorithms problems on LeetCode  
+📈 Currently focusing on my backend skills and practicing leetcode to improve my logical thinking
 🎯 Actively seeking entry-level Software Engineer / Java Developer roles  
 
 ---
