@@ -15,6 +15,7 @@
 💻 Strong foundation in Java, OOP & Data Structures  
 ⚡ Experience building responsive and scalable frontend applications  
 📈 Currently focusing on my backend skills and practicing leetcode to improve my logical thinking
+
 🎯 Actively seeking entry-level Software Engineer / Java Developer roles  
 
 ---
