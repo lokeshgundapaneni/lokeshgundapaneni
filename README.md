@@ -14,35 +14,33 @@ Passionate about building scalable web applications, secure backend systems, and
 <a href="https://leetcode.com/u/i__lokesh__/">LeetCode</a>
 </p>
 
----
-
-# 🚀 About Me
-
-🎓 Computer Science & Engineering (Data Science) Undergraduate
-
-💻 Java Full-Stack Developer with hands-on experience building modern web applications using Spring Boot, React.js, Hibernate, JDBC, and MySQL.
-
-🔐 Interested in Backend Development, Software Engineering, Cloud Technologies, and Secure System Design.
-
-📚 Strong understanding of:
-
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Database Design
-* RESTful APIs
-* MVC Architecture
-* Software Development Best Practices
-
-⚡ I enjoy transforming ideas into reliable, scalable, and user-friendly applications while continuously learning new technologies.
-
-🎯 Currently seeking opportunities as:
-
-* Software Engineer
-* Java Developer
-* Backend Developer
-* Full-Stack Developer
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science undergraduate specializing in Data Science with a strong interest in Software Engineering and Backend Development.
+
+My primary expertise lies in Java Full-Stack Development using Spring Boot, Spring Security, Hibernate, React.js, and MySQL. I enjoy building scalable applications, designing RESTful APIs, optimizing database interactions, and solving complex programming challenges.
+
+Through academic and personal projects, I have developed applications ranging from Event Management Systems and Banking Applications to E-Commerce Platforms and Business Management Tools.
+
+Currently focused on:
+- Advanced Spring Boot Development
+- Backend System Design
+- Data Structures & Algorithms
+- REST API Development
+- Software Engineering Best Practices
+
+I am actively seeking opportunities to contribute as a Software Engineer, Java Developer, or Full-Stack Developer.
 
 # 🛠 Tech Stack
 
@@ -83,6 +81,17 @@ OOP • Collections Framework • Exception Handling • Multithreading • DSA 
 </p>
 
 ---
+
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lokeshgundapaneni&show_icons=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgundapaneni&layout=compact"/>
+</p>
 
 # 💼 Featured Projects
 
